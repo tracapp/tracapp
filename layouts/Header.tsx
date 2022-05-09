@@ -13,7 +13,7 @@ export default function Header() {
     <header className='bg-white py-4 shadow-lg sticky top-0 z-50'>
         <div className='px-6 md:px-20 flex  justify-between items-center 3xl:container mx-auto'>
             <figure>
-                <img className='h-8 md:h-auto' src="/images/logos/logo.svg" />
+                <img className='h-8 md:h-10' src="/images/logos/logo.svg" />
             </figure>   
             <div>
                 <nav  className={`fixed z-30 transition-all duration-300 top-0 bottom-0 bg-white w-72 h-full px-10 pt-20 lg:w-auto lg:px-0 lg:pt-0 lg:static   ${open ? 'right-0' : ' right-[-999px]'}`}>
