@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+  @font-face {
+    font-family: "moonhouse";
+    src: url("/fonts/moonhouse.woff2");
+  }
+    @font-face {
+    font-family: "Gilroy";
+    src: url("/fonts/Gilroy-Light.otf");
+    font-weight: 300;
+  }
+  @font-face {
+    font-family: "Gilroy";
+    src: url("/fonts/Gilroy-ExtraBold.otf");
+    font-weight: 900;
+  }
+
+
+  body{
+    font-family: 'Roboto', sans-serif;
+  }
+
+  @supports (-webkit-text-stroke: 0.8px #DF1B3F) {
+    .moonhouse-stroke {
+      -webkit-text-stroke: 0.8px #DF1B3F; 
+      color: transparent;
+    }
+  }
+  .menu-shadow {
+    text-shadow: 0px 2px 0px rgba(0,0,0,1);
+    -webkit-text-stroke: 1px #141414; 
+  }
+  .shadow-desktop {
+    text-shadow: 0px 4px 0px rgba(0,0,0);
+    -webkit-text-stroke: 1px #141414; 
+  }
+  .shadow-mobile {
+    text-shadow: 0px 1px 0px rgba(0,0,0,.5);
+    -webkit-text-stroke: 1px #141414; 
+  }
+}
