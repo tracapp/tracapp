@@ -16,9 +16,6 @@ export default function Header() {
         <title>TRAC | Move To Earn Fitness App title</title>
         <meta property="og:title" content="TRAC | Move To Earn Fitness App" key="title" />
       </Head>
-      <Head>
-        <meta property="og:title" content="My new title" key="title" />
-      </Head>
         <div className='px-6 md:px-20 flex  justify-between items-center 3xl:container mx-auto'>
             <figure>
                 <img className='h-8 md:h-10' src="/images/logos/logo.svg" />
