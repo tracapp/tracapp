@@ -7,7 +7,7 @@ export default function GamePlay() {
           <div className='3xl:container pb-20 mx-auto' > 
               <div className='flex justify-center'>
                 <div className='pb-16 px-6 md:px-0'>
-                  <h2 className='font-black italic text-[28px] lg:text-[40px] xl:text-[60px] 2xl:text-[58px] leading-[1.8] text-brand-dark-100 uppercase relative z-20' ><span className='text-brand-red'>trac</span> gameplay </h2>
+                  <h2 className='font-black italic text-[28px] lg:text-[40px] xl:text-[42px] 2xl:text-[58px] leading-[1.8] text-brand-dark-100 uppercase relative z-20' ><span className='text-brand-red'>trac</span> gameplay </h2>
                   <h1 className='moonhouse-stroke font-moonhouse text-[100px] xl:text-[120px] 2xl:text-[180px] italic font-normal leading-4 pl-5'>PLAY</h1>
                 </div>
             </div>
