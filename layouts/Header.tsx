@@ -19,19 +19,19 @@ export default function Header() {
                 <nav  className={`fixed z-30 transition-all duration-300 top-0 bottom-0 bg-white w-72 h-full px-10 pt-20 lg:w-auto lg:px-0 lg:pt-0 lg:static   ${open ? 'right-0' : ' right-[-999px]'}`}>
                   <ul className='flex flex-col lg:flex-row  lg:items-center gap-3 xl:gap-5 2xl:gap-10'>
                    <li>
-                      <Link activeClass="!text-brand-red"  className='cursor-pointer text-xl xl:text-[26px] font-black italic text-white menu-shadow' to="tracToEarn" spy={true} smooth={true} duration={500} >TRAC-TO-EARN</Link>
+                      <Link activeClass="!text-brand-red"  className='cursor-pointer text-xl xl:text-[20px] font-black italic text-white menu-shadow' to="tracToEarn" spy={true} smooth={true} duration={500} >TRAC-TO-EARN</Link>
                       </li>
                       <li> 
-                        <Link activeClass="!text-brand-red"  className='cursor-pointer text-xl xl:text-[26px] font-black italic text-white menu-shadow' to="GamePlay" spy={true} smooth={true} duration={500} >GAMEPLAY</Link>
+                        <Link activeClass="!text-brand-red"  className='cursor-pointer text-xl xl:text-[20px] font-black italic text-white menu-shadow' to="GamePlay" spy={true} smooth={true} duration={500} >GAMEPLAY</Link>
                       </li>
                       <li> 
-                          <Link activeClass="!text-brand-red"  className='cursor-pointer text-xl xl:text-[26px] font-black italic text-white menu-shadow' to="GameToken" spy={true} smooth={true} duration={500} >TOKENS</Link>
+                          <Link activeClass="!text-brand-red"  className='cursor-pointer text-xl xl:text-[20px] font-black italic text-white menu-shadow' to="GameToken" spy={true} smooth={true} duration={500} >TOKENS</Link>
                       </li>
                       <li> 
-                          <Link activeClass="!text-brand-red"  className='cursor-pointer text-xl xl:text-[26px] font-black italic text-white menu-shadow' to="GameFeatures" spy={true} smooth={true} duration={500} >GAME FEATURES</Link>
+                          <Link activeClass="!text-brand-red"  className='cursor-pointer text-xl xl:text-[20px] font-black italic text-white menu-shadow' to="GameFeatures" spy={true} smooth={true} duration={500} >GAME FEATURES</Link>
                       </li>
                       <li>
-                        <a href="https://docs.trac.run/" target='_blank' rel="noopener noreferrer" className='text-xl xl:text-[26px] font-black italic text-white menu-shadow'>WHITEPAPER</a>
+                        <a href="https://docs.trac.run/" target='_blank' rel="noopener noreferrer" className='text-xl xl:text-[20px] font-black italic text-white menu-shadow'>WHITEPAPER</a>
                       </li>
                 </ul>
                   </nav>  
