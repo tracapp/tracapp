@@ -14,7 +14,7 @@ export default function Header() {
     <header className='bg-white py-4 shadow-lg sticky top-0 z-50'>
     <Head>
         <title>TRAC | Move To Earn Fitness App title</title>
-        <meta property="og:title" content="TRAC | Move To Earn Fitness App title" key="Move To Earn Fitness App" />
+        <meta property="og:title" content="TRAC | Move To Earn Fitness App" key="title" />
       </Head>
         <div className='px-6 md:px-20 flex  justify-between items-center 3xl:container mx-auto'>
             <figure>
