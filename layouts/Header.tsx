@@ -13,6 +13,7 @@ export default function Header() {
   return (
     <header className='bg-white py-4 shadow-lg sticky top-0 z-50'>
     <Head>
+    <meta name="google-site-verification" content="5V9jYxQGjfDNKWu0gsZP7qOKSumh5mFAuVv8JRl8BOU" />
         <title>TRAC | MoveToEarn Health and Fitness App</title>
 <meta name="description" content="TRAC is a #MoveToEarn health and fitness App with #NFTSneakers that encourages users to move outdoors to earn tokens and NFT rewards."/>
 <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
