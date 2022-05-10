@@ -10,16 +10,16 @@ export default function Statistics() {
                   </div>
                   <div className='flex flex-col lg:flex-row justify-center lg:justify-between w-full gap-8 lg:gap-14 2xl:gap-24 items-center py-10 px-5 2xl:px-20'>
                       <div className=''>
-                          <h2 className='text-center text-[30px] xl:text-[49px] font-gilroy text-white font-black pb-2 lg:pb-3'>384,000,000</h2>
-                          <p className='text-[18px] xl:text-[23px] text-white font-gilroy font-black text-center'>Total $TRAC to Earn</p>
+                          <h2 className='text-center text-[30px] xl:text-[36px] font-gilroy text-white font-black pb-2 lg:pb-3'>384,000,000</h2>
+                          <p className='text-[18px] xl:text-[20px] text-white font-gilroy font-black text-center'>Total $TRAC to Earn</p>
                       </div>
                       <div className=''>
-                          <h2 className='text-center text-[30px] xl:text-[49px] font-gilroy text-white font-black pb-2 lg:pb-3'>10,600</h2>
-                          <p className='text-[18px] xl:text-[23px] text-white font-gilroy font-black text-center'>Twitter Followers</p>
+                          <h2 className='text-center text-[30px] xl:text-[36px] font-gilroy text-white font-black pb-2 lg:pb-3'>10,600</h2>
+                          <p className='text-[18px] xl:text-[20px] text-white font-gilroy font-black text-center'>Twitter Followers</p>
                       </div>
                       <div className=''>
-                          <h2 className='text-center text-[30px] xl:text-[49px] font-gilroy text-white font-black pb-2 lg:pb-3'>1,600,000</h2>
-                          <p className='text-[18px] xl:text-[23px] text-white font-gilroy font-black text-center'>Daily Calories Burned</p>
+                          <h2 className='text-center text-[30px] xl:text-[36px] font-gilroy text-white font-black pb-2 lg:pb-3'>1,600,000</h2>
+                          <p className='text-[18px] xl:text-[20px] text-white font-gilroy font-black text-center'>Daily Calories Burned</p>
                       </div>
                   </div>
               </div> 
