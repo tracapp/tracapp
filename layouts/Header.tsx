@@ -1,7 +1,3 @@
-<Head>
-<title>My page title</title>
-<meta name="viewport" content="initial-scale=1.0, width=device-width" />
-</Head>
 import React, { useState } from 'react' 
 import { Link } from 'react-scroll'
 export default function Header() {
@@ -15,6 +11,10 @@ export default function Header() {
     } 
   return (
     <header className='bg-white py-4 shadow-lg sticky top-0 z-50'>
+    <Head>
+        <title>TRAC | Move To Earn Fitness App title</title>
+        <meta property="og:title" content="TRAC | Move To Earn Fitness App" key="title" />
+      </Head>
         <div className='px-6 md:px-20 flex  justify-between items-center 3xl:container mx-auto'>
             <figure>
                 <img className='h-8 md:h-10' src="/images/logos/logo.svg" />
