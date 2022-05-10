@@ -32,7 +32,7 @@ export default function GamePlay() {
                   <div className='relative w-80 px-5 -mt-10 2xl:ml-36'> 
                     <h1 className='font-gilroy leading-[.5] text-[204px] font-black absolute text-brand-dark-100 opacity-5 right-12 top-0 z-10'>1</h1>
                     <div className='pt-5 relative z-20'>
-                      <h2 className='text-[32px] font-black italic text-white shadow-desktop pb-2'>Register</h2>
+                      <h2 className='text-[32px] font-black italic text-white shadow-desktop pb-2'>REGISTER</h2>
                       <p className='text-base font-normal italic leading-[20px]  text-brand-dark-100'>Register with your preferred email and get the verification code.</p>
                     </div>
                   </div>
