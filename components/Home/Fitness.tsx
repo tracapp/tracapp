@@ -11,7 +11,7 @@ export default function Fitness() {
             <p className='text-sm leading-3 md:leading-normal xl:text-xl 2xl:text-2xl font-extralight italic text-brand-dark-100 2xl:pl-8 2xl:pr-28 pb-6 md:pb-12'>The apex of a physical fitness within the metaverse, using NFTs and geolocation technologies.</p>
             <div className='flex gap-3 md:flex-col'>
               <div className='pb-5 2xl:pl-8'>
-                <h5 className='text-[10px] sm:text-lg italic font-medium md:pb-2 text-brand-dark-100'>CONTRACT AUDITED BY</h5>
+                <h5 className='text-[8px] sm:text-lg italic font-medium md:pb-2 text-brand-dark-100'>CONTRACT AUDITED BY</h5>
                 <div className='flex items-center gap-2 sm:gap-5'>
                   <a  href="https://github.com/ContractWolf/smart-contract-audits/" target='_blank' rel="noopener noreferrer"> <img src="/images/logos/contractwolf.svg" alt="contractwolf.svg" /></a>
                   <a  href="https://coinsult.net/projects/trac/" target='_blank' rel="noopener noreferrer"><img src="/images/logos/coinsult.svg" alt="coinsult.svg" /></a>
@@ -19,7 +19,7 @@ export default function Fitness() {
                 </div>
               </div>
               <div className='pb-2 2xl:pl-8'>
-                <h5 className='text-[10px] sm:text-lg italic font-medium md:pb-2 text-brand-dark-100'>API AND SDK POWERED BY</h5>
+                <h5 className='text-[8px] sm:text-lg italic font-medium md:pb-2 text-brand-dark-100'>API AND SDK POWERED BY</h5>
                 <div className='flex items-end gap-2 sm:gap-5'>
                   <a href="https://developer.garmin.com/" target='_blank' rel="noopener noreferrer"><img src="/images/logos/garmin.svg" alt="garmin.svg" /></a>
                   <a href="https://developers.strava.com/" target='_blank' rel="noopener noreferrer">   <img src="/images/logos/strava.svg" alt="strava.svg" /></a>
