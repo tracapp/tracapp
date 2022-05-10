@@ -13,8 +13,32 @@ export default function Header() {
   return (
     <header className='bg-white py-4 shadow-lg sticky top-0 z-50'>
     <Head>
-        <title>TRAC | Move To Earn Fitness App title</title>
-        <meta property="og:title" content="TRAC | Move To Earn Fitness App" key="title" />
+        <title>TRAC | MoveToEarn Health and Fitness App</title>
+        <meta name="description" content="TRAC is a Move To Earn health and fitness App with #NFTSneakers that encourages users to move outdoors to earn tokens and NFT rewards."/>
+        <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+          <link rel="canonical" href="https://trac.run/" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="TRAC | MoveToEarn health and fitness App" />
+        <meta property="og:description" content="TRAC is a Move To Earn health and fitness App with #NFTSneakers that encourages users to move outdoors to earn tokens and NFT rewards.and Support." />
+        <meta property="og:url" content="https://trac.run/" />
+        <meta property="og:site_name" content="TRAC" />
+        <meta property="og:updated_time" content="2022-05-04T13:15:02+08:00" />
+        <meta property="og:image" content="https://trac.run/images/trac-move-to-earn.png" />
+        <meta property="og:image:secure_url" content="https://trac.run/images/trac-move-to-earn.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:alt" content="TRAC" />
+        <meta property="og:image:type" content="image/png" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="TRAC | MoveToEarn Health and Fitness App" />
+        <meta name="twitter:description" content="TRAC is a MoveToEarn health and fitness App with NFTSneakers that encourages users to move outdoors to earn tokens and NFT rewards" />
+        <meta name="twitter:image" content="https://trac.run/images/trac-move-to-earn.png" />
+        <meta name="twitter:label1" content="Written by" />
+        <meta name="twitter:data1" content="TRAC" />
+        <meta name="twitter:label2" content="Time to read" />
+        <meta name="twitter:data2" content="1 minute" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://trac.run/#person","name":"TRAC","logo":{"@type":"ImageObject","@id":"https://trac.run/#logo","url":"https://trac.run/images/trac-move-to-earn.png","caption":"TRAC","inLanguage":"en-US","width":"1920","height":"1080"},"image":{"@type":"ImageObject","@id":"https://trac.run/#logo","url":"https://trac.run/images/trac-move-to-earn.png","caption":"TRAC","inLanguage":"en-US","width":"1920","height":"1080"}},{"@type":"WebSite","@id":"https://trac.run/#website","url":"https://trac.run","name":"TRAC","publisher":{"@id":"https://trac.run/#person"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://trac.run/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://trac.run/images/trac-move-to-earn.png","url":"https://trac.run/images/trac-move-to-earn.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"Person","@id":"https://trac.run/dev-trac-run/","name":"TRAC","url":"https://trac.run/author/info-couponreegmail-com/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/566ed0daea59fdfb8b2e9935ff282a59?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/566ed0daea59fdfb8b2e9935ff282a59?s=96&amp;d=mm&amp;r=g","caption":"TRAC","inLanguage":"en-US"},"sameAs":["https://trac.run"]},{"@type":"WebPage","@id":"https://trac.run/#webpage","url":"https://trac.run/","name":"TRAC | Move MoveToEarn| TRAC","datePublished":"2020-09-14T19:40:29+08:00","dateModified":"2022-05-04T13:15:02+08:00","author":{"@id":"https://trac.run/author/dev-trac-run/"},"isPartOf":{"@id":"https://trac.run/#website"},"primaryImageOfPage":{"@id":"https://trac.run/images/trac-move-to-earn.png"},"inLanguage":"en-US"}]}</script>
       </Head>
         <div className='px-6 md:px-20 flex  justify-between items-center 3xl:container mx-auto'>
             <figure>
