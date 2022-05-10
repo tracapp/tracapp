@@ -1,5 +1,5 @@
-import Head from 'next/head'
-import React, { useState } from 'react' 
+import React, { useState } from 'react'
+import Head from 'next/head' 
 import { Link } from 'react-scroll'
 export default function Header() {
     let [open, isOpen] = useState(false);
