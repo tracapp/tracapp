@@ -1,3 +1,7 @@
+<Head>
+<title>My page title</title>
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+</Head>
 import React, { useState } from 'react' 
 import { Link } from 'react-scroll'
 export default function Header() {
