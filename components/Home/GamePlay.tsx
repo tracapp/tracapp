@@ -32,21 +32,21 @@ export default function GamePlay() {
                   <div className='relative w-80 px-5 -mt-10 2xl:ml-36'> 
                     <h1 className='font-gilroy leading-[.5] text-[204px] font-black absolute text-brand-dark-100 opacity-5 right-12 top-0 z-10'>1</h1>
                     <div className='pt-5 relative z-20'>
-                      <h2 className='text-[32px] font-black italic text-white shadow-desktop pb-2'>REGISTER</h2>
+                      <h2 className='text-[30px] font-black italic text-white shadow-desktop pb-2'>REGISTER</h2>
                       <p className='text-base font-normal italic leading-[20px]  text-brand-dark-100'>Register with your preferred email and get the verification code.</p>
                     </div>
                   </div>
                   <div className='relative w-80 px-5 mt-10 2xl:mt-20 ml-0'> 
                     <h1 className='font-gilroy leading-[.5] text-[204px] font-black absolute text-brand-dark-100 opacity-5 right-5 top-0 z-10'>2</h1>
                     <div className='pt-5 relative z-20'>
-                      <h2 className='text-[32px] font-black italic text-white shadow-desktop pb-2'>Marketplace</h2>
+                      <h2 className='text-[30px] font-black italic text-white shadow-desktop pb-2'>MARKETPLACE</h2>
                       <p className='text-base font-normal italic leading-[20px]  text-brand-dark-100'>Get your Sneakers to start earning tokens and NFT rewards. Sneakers can be levelled up, can add attributes points and Boosters in order to amplify its performance.</p>
                     </div>
                   </div>
                   <div className='relative w-80 px-5 -mt-14'> 
                     <h1 className='font-gilroy leading-[.5] text-[204px] font-black absolute text-brand-dark-100 opacity-5 right-5 top-5 2xl:top-0 z-10'>3</h1>
                     <div className='pt-20  pl-5 2xl:pl-0 2xl:pt-5 relative z-20'>
-                      <h2 className='text-[32px] font-black italic text-white shadow-desktop pb-2'>TRAC and Earn</h2>
+                      <h2 className='text-[30px] font-black italic text-white shadow-desktop pb-2'>TRAC AND EARN</h2>
                       <p className='text-base font-normal italic leading-[20px]  text-brand-dark-100'>Earn TRAC Tokens by walking, running and moving outdoors. TRAC builds a full ecosystem including in-app wallet, swap, and marketplace so that the app is intuitive to use.</p>
                     </div>
                   </div>
