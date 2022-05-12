@@ -20,7 +20,7 @@ export default function FairLaunch() {
                       <div className='px-4 lg:px-12 py-8 md:w-6/12 flex flex-col items-center md:block'>
                           <h2 className='font-black italic text-lg lg:text-2xl  text-[#1D2654] pb-5 text-center md:text-left uppercase '>Fair Launch Limited Edition</h2>
                           <p className='italic text-base lg:text-[22px] pb-14 text-center md:text-left' >Get <strong className='text-[#FCB300]'>1 of 50</strong> Limited Edition Legendary NFT Sneakers for the Top 50 early participants who join us on our Official Fair Launch on Pinksale.</p>
-                           <a href="https://www.pinksale.finance/" rel="noopener noreferrer" target='_blank' className='md:w-full inline-block text-center rounded-lg px-5 py-5 bg-[#DF1B3F] text-white font-black text-xl lg:text-[26px] italic'>Join Fair Launch Now!</a>
+                           <a href="https://www.pinksale.finance/#/launchpad/0x37efEe47897660680E6Dda27e90F2823245C92b9?chain=BSC" rel="noopener noreferrer" target='_blank' className='md:w-full inline-block text-center rounded-lg px-5 py-5 bg-[#DF1B3F] text-white font-black text-xl lg:text-[26px] italic'>Join Fair Launch Now!</a>
                       </div>
                   </div>
               </div>
