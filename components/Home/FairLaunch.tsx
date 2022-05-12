@@ -15,7 +15,7 @@ export default function FairLaunch() {
                   <div className='w-full rounded-2xl overflow-hidden border border-black shadow-[0_8px_1px_0_#000] flex flex-col md:flex-row'>
                       <figure className='md:w-6/12 relative'>
                           <img className='w-full h-full xl:h-96' src="/images/violet-rays.gif" alt="violet-rays.gif" /> 
-                          <img className='absolute left-[58%] translate-x-[-50%] top-[50%] translate-y-[-50%] z-30' src="/images/Shoes.png" alt="Shoes.png" /> 
+                          <img className='absolute left-[58%] translate-x-[-50%] top-[50%] translate-y-[-50%] z-30' src="/images/10050.webp" alt="10050.webp" /> 
                       </figure>
                       <div className='px-4 lg:px-12 py-8 md:w-6/12 flex flex-col items-center md:block'>
                           <h2 className='font-black italic text-lg lg:text-2xl  text-[#1D2654] pb-5 text-center md:text-left uppercase '>Fair Launch Limited Edition</h2>
