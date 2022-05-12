@@ -14,7 +14,7 @@ export default function Statistics() {
                           <p className='text-[18px] xl:text-[20px] text-white font-gilroy font-black text-center'>Total $TRAC to Earn</p>
                       </div>
                       <div className=''>
-                          <h2 className='text-center text-[30px] xl:text-[36px] font-gilroy text-white font-black pb-2 lg:pb-3'>10,600</h2>
+                          <h2 className='text-center text-[30px] xl:text-[36px] font-gilroy text-white font-black pb-2 lg:pb-3'>6,600</h2>
                           <p className='text-[18px] xl:text-[20px] text-white font-gilroy font-black text-center'>Twitter Followers</p>
                       </div>
                       <div className=''>
