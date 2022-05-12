@@ -13,7 +13,7 @@ export default function Fitness() {
               <div className='pb-5 2xl:pl-8'>
                 <h5 className='text-[8px] sm:text-lg italic font-medium md:pb-2 text-brand-dark-100'>CONTRACT AUDITED BY</h5>
                 <div className='flex items-center gap-2 sm:gap-5'>
-                  <a  href="https://github.com/ContractWolf/smart-contract-audits/" target='_blank' rel="noopener noreferrer"> <img src="/images/logos/coinsult.svg" alt="coinsult.svg" /></a>
+                  <a  href="https://github.com/ContractWolf/smart-contract-audits/" target='_blank' rel="noopener noreferrer"> <img src="/images/logos/coinsults.svg" alt="coinsults.svg" /></a>
                                     
                 </div>
               </div>
