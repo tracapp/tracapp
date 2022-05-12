@@ -16,7 +16,7 @@ export default function Footer() {
             <li><a href="https://medium.com/@tracdotrun" target='_blank' rel="noopener noreferrer"><img src="/images/medium.svg" alt="medium.svg" /></a></li>
             <li><a href="https://twitter.com/tracdotrun" target='_blank' rel="noopener noreferrer"><img src="/images/twitter.svg" alt="twitter.svg" /></a></li>
             <li><a href="https://t.me/tracdotrun" target='_blank' rel="noopener noreferrer"><img src="/images/telegram.svg" alt="telegram.svg" /></a></li>
-            <li><a href="https://discord.com/invite/trac" target='_blank' rel="noopener noreferrer"><img src="/images/discord.svg" alt="discord.svg" /></a></li>
+            <li><a href="https://discord.gg/jST6zqzNpp" target='_blank' rel="noopener noreferrer"><img src="/images/discord.svg" alt="discord.svg" /></a></li>
             <li><a href="https://instagram.com/tracdotrun/" target='_blank' rel="noopener noreferrer"><img src="/images/instagram.svg" alt="instagram.svg" /></a></li>  
           </ul>
           <p className='text-[12px] md:text-xl font-black italic text-[#C5C5C5] pb-5 sm:pb-8 text-center'>
